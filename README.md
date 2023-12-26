@@ -12,3 +12,5 @@ Bike category is the best seller from the inception
 The month that gave the best profit is December, the lowest profit was made in July 
 Highest profit was recorded in 2016 while the lowest profit was recorded in 2011
 Highest profit is realized on Saturday while Monday gave the smallest profit 
+
+![Image description](dash1.png)
